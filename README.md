@@ -1,2 +1,5 @@
 # M.Tech-Project
-M.TECH Project Details
+Hello everyone! I'm excited to write about my M.Tech final year project, where I am using a cool little computer called Raspberry Pi to predict if someone might get diabetes. It's like teaching the computer to learn and make predictions by itself without us having to tell it everything. I added special sensors to measure blood sugar and body temperature, and a smart decision-making program to understand all that information. This Raspberry Pi computer is like the brain of my project, and it can switch between working automatically or letting people control it manually. The tricky part is making sure the computer understands what the sensors are saying. I have  got two ways to gather information: one keeps collecting it all the time, and the other lets you choose from different sets using a keypad.
+My big goal is to create a system that can catch signs of diabetes early on, making it easier for people to take care of their health. The Raspberry Pi 3 Model B+ is like the superhero in my project, doing a lot of the powerful work to make it all happen. Thanks for listening, and I'm excited to share more about how this project is making a difference in healthcare.
+Please watch the demo of my project by accessing the below link:
+https://drive.google.com/file/d/1iym4WmDCZR7ohXH1IITWV6GQcBffjOlt/view?usp=sharing
